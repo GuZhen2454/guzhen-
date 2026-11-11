@@ -1,0 +1,7 @@
+# GitBook Git Sync configuration.
+# https://gitbook.com/docs — connect this repository, then GitBook reads these two files.
+root: ./
+
+structure:
+  readme: README.md
+  summary: SUMMARY.md

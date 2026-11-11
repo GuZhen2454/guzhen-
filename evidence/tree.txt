@@ -1,0 +1,45 @@
+== workspace: C:\Users\guzhen\Documents\deepseek-harness\default-workspace ==
+         1  .\dsh-lab
+         1  .\dsh-lab\assets
+         1  .\dsh-lab\out
+         1  .\dsh-lab\tools
+         1  .\dsh-lab\assets\frames
+     22371  .\dsh-lab\assets\frames\0-导入.jpg
+     26160  .\dsh-lab\assets\frames\1850-插件实战.jpg
+     26713  .\dsh-lab\assets\frames\2838-总结.jpg
+     28158  .\dsh-lab\assets\frames\307-安装配置.jpg
+     37563  .\dsh-lab\assets\frames\45-技术概念.jpg
+     26462  .\dsh-lab\assets\frames\793-使用教程.jpg
+       966  .\dsh-lab\out\cordis.patch.copy.yml
+      1070  .\dsh-lab\out\env-snapshot.json
+       211  .\dsh-lab\out\profile-package.copy.json
+      1695  .\dsh-lab\tools\asar-read.mjs
+
+== dsh home: C:\Users\guzhen\.dsh ==
+         1  ~\attachments
+         1  ~\llm-deepseek
+         1  ~\profiles
+         1  ~\sessions
+         1  ~\storages
+        37  ~\.anonymous-user-id
+       478  ~\.credentials.yaml
+         1  ~\attachments\v1
+         1  ~\attachments\v1\objects
+         1  ~\attachments\v1\tmp
+         1  ~\attachments\v1\objects\19
+         1  ~\attachments\v1\objects\2d
+         1  ~\attachments\v1\objects\50
+         1  ~\attachments\v1\objects\81
+     26160  ~\attachments\v1\objects\19\19e04b54c075f6e9282928c3422cf8c8b97326a18d5b58cb139481137f7ed409
+     37563  ~\attachments\v1\objects\2d\2db3e4054c8697dd64a7386e08044ae8dd9f52f5222affa075e587b829ba00d1
+     28158  ~\attachments\v1\objects\50\501ef8728b6a73ca9cc6d7657115af7759bc166895fb2ed2d0177d4e0e5174f8
+     26462  ~\attachments\v1\objects\81\81e94a24fc92631bc355e3fb6002d62d090bfe25ad58e5f6172d68a45290bcaa
+      1808  ~\llm-deepseek\files-v3.json
+         1  ~\profiles\desktop
+       966  ~\profiles\desktop\cordis.patch.yml
+       223  ~\profiles\desktop\cordis.yml
+       211  ~\profiles\desktop\package.json
+        61  ~\profiles\desktop\pnpm-workspace.yaml
+         1  ~\storages\session_projcache
+       716  ~\storages\workspace.json
+         1  ~\storages\session_projcache\sessions

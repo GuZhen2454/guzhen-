@@ -1,0 +1,22 @@
+{
+  "sampledAt": "2026-11-11T21:04:12.6633829+08:00",
+  "os": "Microsoft Windows NT 10.0.26200.0",
+  "arch": "AMD64",
+  "hostName": "LAPTOP-GDPVS706",
+  "appExe": "F:\\dfy\\DeepSeek Harness.exe",
+  "appVersion": "0.2.2.0",
+  "appChannel": "nightly (win-x64, generic feed download.deepseek.com)",
+  "pwsh": "5.1.26100.9711",
+  "dshHome": "C:\\Users\\guzhen\\.dsh",
+  "dshProfile": "desktop",
+  "dshProfileDir": "C:\\Users\\guzhen\\.dsh\\profiles\\desktop",
+  "dshWebUrl": "http://127.0.0.1:62156",
+  "bundles": ["@deepseek-ai/dsh-base", "@deepseek-ai/dsh-web-app"],
+  "model": { "provider": "deepseek-account", "model": "deepseek-flash", "reasoningEffort": "high" },
+  "preset": { "default": "standard", "selectedDefault": "cordis" },
+  "sandboxPolicy": "workspace-write",
+  "workspace": "C:\\Users\\guzhen\\Documents\\deepseek-harness\\default-workspace",
+  "runtime": { "node": "24.21.0", "pnpm": "11.28.5" },
+  "pluginEntriesInTree": 199,
+  "officeSkills": ["office","office-docx","office-export-pdf","office-pptx","office-recalculate","office-render","office-xlsx"]
+}
